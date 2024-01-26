@@ -5,11 +5,15 @@ The Business-automater is software used by small businesses with a lack of compu
 
 ## Teck Stack
 -Java
+
 -Java Swing GUI Components
 
 ### How to Run
+
 -Locate to the dist folder
+
 -Download the jar file
+
 -Once in the terminal type: `java -jar "PAT.jar"`
 
 ### OR 
