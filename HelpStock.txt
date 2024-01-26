@@ -1,0 +1,14 @@
+-The table will display all the various details about each product in the business and it can be edited
+-The user can add a product to the table by pressing "add product" which will allow them to input details about the product that they want to be 
+added to the table by asking them for these various products
+-The user can remove a product  from the table by selecting "remove product" which will allow them to select the product ID of the product to be deleted
+-The "ascending order" button displays the table in ascending order based on the product ID of the products
+-The "descending order" button dispalys the table in descending order based on the product ID of the products
+-The "alphabetical" button displays the products in alphabetical order based on the product's names
+-The "stock count ASC" displays the products in ascending order based on the stock count of the products from smallest to largest
+-The "stock count DESC" displays the products in descending order based on the stock count of the products from largest to smallest
+-The "update stock count" will allow you to update the stock count of any product by inputting their Product ID after the button has been clicked 
+and how much stock is being added
+-The "stock price list" button will take you to the price list page where you will be able to the prices of the various products
+-The "main menu" button will take you back to the main menu screen where you will be able to navigate any page in the program
+-The "help" button will take you to the help menu of the current screen

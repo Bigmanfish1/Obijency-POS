@@ -1,0 +1,5 @@
+-The table displays the details of the users of the system that have registered using their personal details, they are also assigned a user ID
+-The "back to main menu" button takes you to the main menu screen where you can navigate to any other screen in the program
+-The "edit" button will allow the admin user to edit the status of any user in the table by selecting their user ID and by selecting whta status
+to change the user's status to on a pop up message
+-The "help" button takes you to the help menu of the current screen

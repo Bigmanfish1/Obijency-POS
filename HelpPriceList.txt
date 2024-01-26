@@ -1,0 +1,8 @@
+-The table will display the price details of every product in the business about its product ID which corresponds with a product in the business
+and a price ID which corresponds with a product in the business
+-The "main menu" button will take you to the main menu where you will be able to navigate to any screen in the program
+-The "price ascending" button will display the table in order of the prices from smallest to the largest price.
+-The "price descending" button will display the table in order of prices from the largest to the smallest price
+-The "edit price" button will allow you to change the price of a product based on its price ID and by it asking for the price ID and asking what 
+price to change it to
+-The "help" button will take you to the help menu of the current screen

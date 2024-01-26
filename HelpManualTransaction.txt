@@ -1,0 +1,8 @@
+-The table will display the details of the item, price and number of items that you have input into the transaction
+-The "add item" button will allow you to add an item to the transaction as a pop up screen will appear and you will be able to select an item 
+and input the number of items in the required fields on the pop up menu
+-The "remove item" button will allow you to edit the table by allowing you to remove an item from the list of items you have input
+-The "back" button will take you back to the transaction page.
+-The "cancel" button will clear the whole table of the items you have input into the table
+-The "checkout" button takes you to the checkout screen that will allow you to input the payment details of the transaction
+-The "help" button will take you to the help menu of the current screen you're on

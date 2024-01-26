@@ -1,0 +1,7 @@
+-The table displays all the details of the products scanned into the transaction based on the barcode of the product
+-The "back" button will take you back to the transaction page where you will be able to select a different type of transaction
+-The "cancel" button will clear the table filled with transactions that have been scanned
+-The "remove an item" button will remove an item from the table filled with transactions by allowing you to delete the details 
+of the product
+-The "checkout" button will take you to the checkout page where the payment details of th etransaction will be input.
+-The "help" button will take you to the help menu of the current page

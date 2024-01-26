@@ -1,0 +1,5 @@
+-The Table displayed on the screen will display all the relevant fields of the table and canbe edited.
+-The "Back To Main Menu" button once clicked will take you to the main menu of the program.
+-The "edit" button will allow you to edit the table by allowing you to remove debtors or add debtors.
+-The "Save" button will save all the changes that have been made to the table while it has been edited.
+-The "help" button will take you to the help menu of the current screen you are on.

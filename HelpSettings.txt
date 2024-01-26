@@ -1,0 +1,6 @@
+-The "change" buttons next to each field will allow you to edit your details, as once they are clicked a small pop up menu will be displayed 
+which will allow you to input the new detail.
+-Note that when changing your password you will need to ask an admin user to input their password.
+-Note to save the various changes the "save" button must be clicked.
+-The "main menu" button will take you to the main menu where you will be able to navigate to any screen in the program
+-The "help" button will take you to the help menu of the current screen

@@ -1,0 +1,15 @@
+-The table on the screen displays the transactions that have taken place on the specific and it cannot be edited
+-The "transaction history" button will take you to the transaction history page where you can see the various details about the transactions
+in the business
+-The "stock" button will take you to the stock management transaction page where you can see the various details about your stock
+-The "price list" button will take you to the price list page where you will be able to see the various prices of the stock
+-The "debtors" page will take you to the debtors page where you will be able to see the various details about the Debtors
+-The "backend accounting" button will take admin users only to the backend accounting page that will show you the various 
+calculations based on transaction in the business.
+-The "settings" button will take you the settings page where you will be able to edit the details you input when signing up for the system
+-The "users" button will take you to the users table where only admin users will be able to see the users who hae been registered on the system
+The "login table: button will take you to the login table where you will  be able to see the log of all the users who have signed into
+the system and it will only be available to admin users
+-The "new transaction" button will allow you to create a new transaction where you will be able to choose which type of transaction it is
+The "help" button will take you to the help menu of the screen you are currently on.
+-You can use the scroll bar to scroll through the screen.

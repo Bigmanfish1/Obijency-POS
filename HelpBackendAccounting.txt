@@ -1,0 +1,7 @@
+-The Table displayed on the screen will display all the relevant fields of the table and cannot be edited.
+-The date choosers on the screen next to the "Date From" and "Date To" labels allow you to select the date range of how
+ you want the tables to be displayed. You can click on the small icon next to the empty field in order to select a date
+you can choose a year, month and day of your choice.
+-There is an empty label next to the "Balance" label on the screen which displays the total profit/loss of the business.
+-There is a "Main Menu" button under the table that once clicked will take you to the main menu of the program.
+-There is a help button which will take you to the help menu of the current page you were on.

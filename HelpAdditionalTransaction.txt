@@ -1,0 +1,9 @@
+-The Combo box on the screen will that says "SELECT AN OPTION" will allow you to select the type of transaction you will be inputting
+- The text field next to "Transaction Amount will allow you to input the total amount of the transaction you are inputting
+-The text field next to "Reference" will allow you to input a name or phrase associated with the transaction such as "Tony Debtor"
+- The last text field on the page next to "Admin password" will allows you to input the password of any user that has an admin status 
+on the system such as the owner of the business.
+-The "back" button will allow you to go back to the previous screen you were on.
+-The "cancel" button clears out all the text fields and combo box to its default input
+-The "checkout" button carries out the transaction and will take you to a final transaction message.
+-The "help" button will take you to the help menu of the screen you are currently on.

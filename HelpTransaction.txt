@@ -1,0 +1,8 @@
+-The "barcode" button will allow you to go to the transaction page where you will be able to scan products using a barcode scanner 
+to read the various details of products in the business
+-The "additional" button will take you the additional transaction page where you will be able to input a transaction that ins't a manual
+or a barcode transaction such as a debtor paying of their debt
+-The "manual" button will take you to the manul transaction page where you will be able to manually input every detail of the product
+based on the required fields
+-The "main menu" button will take you to the main menu screen of the program where you will be able to navigate to any screen in the program
+-The "help" button will take you to the help page of the screen you are currently on

@@ -1,0 +1,7 @@
+-You can input the username you registered with when signing up into the field that prompts for the username to be input.
+-You can enter the password you registered with when you signed up into the field next to "password"
+-The "sign in" button will validate that your details are correct and if so you will be taken to the mainmenu of the program where 
+you will be able to navigate to any page in the program
+-The "cancel" button will clear all the fields on the screen
+-The "sign up" button will take you to the sign up page if you want to register a new user onto the system
+-The "help" button will take you to help menu of the current page

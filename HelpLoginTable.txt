@@ -1,0 +1,6 @@
+-The Table displayed on the screen cannot be edited and it displays all the details about the various users who have logged into the system
+-The "main menu" button will take you back to the main menu screen once it is clicked.
+-The date choosers next to "date from" and "date to" allow you to select the date range that you want the tabel to be displayed in.
+-The "help" button will take you to the help menu of the current screen.
+-You can select a date range by selecting a date from in the date chooser next to "date from" and selecting a date to stop at by selecting 
+a date in the date chooser next to "date to"

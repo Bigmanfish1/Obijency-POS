@@ -1,0 +1,8 @@
+-The table displays all the details about transactions that have taken place over a certains range of time and it cannot be edited
+-The user can sort the table according to the total amount either in ascending or descending order based on the option that is selected by a user
+by selecting an option from the combo box 
+- The user can select a time range for the table to be displayed in buy selecting a to and from date from the date choosers on the page next to
+"date from" and "date to" 
+-The "back to main menu" button takes the user back to the main menu where they can navigate to any screen based on the buttons on the main
+menu
+-The "help" button will take the user to the help menu of the current screen

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="95" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="lblCompanyNameSettings" max="-2" attributes="0"/>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btnSettingsMainMenu" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
+                              <Component id="btnSaveSettings" min="-2" pref="67" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="lblPasswordSettings" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="lblUsernameSettings" max="32767" attributes="0"/>
+                                      <Component id="lblStatusSettings" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="lblSurnameSettings" pref="61" max="32767" attributes="0"/>
+                                      <Component id="lblNameSettings" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="lblDisplayNameSettings" max="32767" attributes="0"/>
+                                  <Component id="lblDisplaySurnameSettings" max="32767" attributes="0"/>
+                                  <Component id="lblDisplayUsernameSettings" max="32767" attributes="0"/>
+                                  <Component id="pwfPasswordUser" pref="127" max="32767" attributes="0"/>
+                                  <Component id="lblDisplayStatusSettings" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="lblUsername" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblStatus" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="btnChangeUsername" alignment="1" max="32767" attributes="0"/>
+                          <Component id="btnChangeSurname" alignment="1" max="32767" attributes="0"/>
+                          <Component id="btnChangeName" alignment="1" max="32767" attributes="0"/>
+                          <Component id="btnChangePassword" alignment="1" max="32767" attributes="0"/>
+                          <Component id="btnHelpSettings" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="lblCompanyNameSettings" min="-2" pref="42" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblDisplayNameSettings" max="32767" attributes="0"/>
+                  <Component id="btnChangeName" max="-2" attributes="0"/>
+                  <Component id="lblNameSettings" pref="28" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblDisplaySurnameSettings" max="32767" attributes="0"/>
+                  <Component id="btnChangeSurname" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblSurnameSettings" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lblUsername" min="-2" pref="22" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblDisplayUsernameSettings" min="-2" pref="28" max="-2" attributes="0"/>
+                          <Component id="btnChangeUsername" max="-2" attributes="0"/>
+                          <Component id="lblUsernameSettings" alignment="0" min="-2" pref="22" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblPasswordSettings" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="btnChangePassword" max="-2" attributes="0"/>
+                  <Component id="pwfPasswordUser" min="-2" pref="22" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="lblStatus" min="-2" pref="23" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblStatusSettings" min="-2" pref="23" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblDisplayStatusSettings" min="-2" pref="23" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="24" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnSaveSettings" alignment="3" max="-2" attributes="0"/>
+                  <Component id="btnSettingsMainMenu" alignment="3" max="-2" attributes="0"/>
+                  <Component id="btnHelpSettings" alignment="3" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblCompanyNameSettings">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="OBIJENCY FOOD STUFF"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblNameSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NAME:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSurnameSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SURNAME:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPasswordSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PASSWORD:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblStatusSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="STATUS:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblStatus">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUsernameSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="USERNAME:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblUsername">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnChangeUsername">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CHANGE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnChangeUsernameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnChangeSurname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CHANGE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnChangeSurnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnChangeName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CHANGE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnChangeNameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnChangePassword">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CHANGE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnChangePasswordActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnSaveSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SAVE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSaveSettingsActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnSettingsMainMenu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MAIN MENU"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSettingsMainMenuActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnHelpSettings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HELP"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnHelpSettingsActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDisplayNameSettings">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDisplaySurnameSettings">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDisplayUsernameSettings">
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="pwfPasswordUser">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDisplayStatusSettings">
+    </Component>
+  </SubComponents>
+</Form>

@@ -1,0 +1,8 @@
+-The various empty fields on the screen will allow you to input the various prompts of the details needed to register onto 
+the system
+-Once you press the "sign up" button all your information will be validated to make sure that it is all valid and that none of the fields have 
+have been left empty by showing either "valid" or "invlaid" in next to each field once it is clicked
+-If all your information is valid you will be taken to the sign in page to sign into the program
+-The "cancel" button will clear all the fields on the page
+-The "sign in" button will take you to the sign in page if where you can input your details if you've already registered to be on the system
+-The "help" button will take you to the help menu of the current screen
